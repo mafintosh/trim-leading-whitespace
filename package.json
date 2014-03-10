@@ -1,6 +1,6 @@
 {
   "name": "trim-leading-whitespace",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "trims leading whitespace of a stream",
   "repository": "git://github.com/mafintosh/trim-leading-whitespace.git",
   "scripts": {
