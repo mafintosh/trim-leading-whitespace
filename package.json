@@ -2,6 +2,7 @@
   "name": "trim-leading-whitespace",
   "version": "0.0.0",
   "description": "trims leading whitespace of a stream",
+  "repository": "git://github.com/mafintosh/trim-leading-whitespace.git",
   "scripts": {
 	"test": "tap test.js"
   },
